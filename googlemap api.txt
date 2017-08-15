@@ -1,0 +1,5 @@
+AIzaSyD31D1aZ_nmZERj39ujjwwPed8y5lyDQPU
+
+google map api key for dhara
+
+https://www.google.com/maps/embed/v1/place?key=AIzaSyD31D1aZ_nmZERj39ujjwwPed8y5lyDQPU&q=Bengaluru,+Karnataka
